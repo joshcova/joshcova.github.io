@@ -8,11 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a postdoctoral researcher at the Max Planck Institute for the Study of the Societies based in Cologne. I received my PhD at the [DYNAMICS graduate school](https://www.sowi.hu-berlin.de/en/dynamics/), a PhD program jointly run by [Humboldt University Berlin](https://www.hu-berlin.de/en) and the [Hertie School](https://www.hertie-school.org/en/).  
+Hello! I am a postdoctoral researcher at the [Max Planck Institute for the Study of the Societies](https://www.mpifg.de/2733/en). I received my PhD at the [DYNAMICS graduate school](https://www.sowi.hu-berlin.de/en/dynamics/), a PhD program jointly run by Humboldt University Berlin and the Hertie School. Prior to my PhD, I worked in consulting and for the EU institutions. I completed my MPhil in European Politics at the University of Oxford and my BA in History at King's College London.  
 
-Research interest
-======
+My interests lie in the political economy of European countries from a comparative angle. In my resarch, I examine how politics intersect with wage formation, income stagnation and labour market institutions.  Methodologically, I specialize in time series and panel data analysis. I have also taken a great interest in quantitative text analysis and in leveraging natural language processing to answer research questions in comparative political economy.  
 
-I am broadly interested in examing the political economy of European countries from a comparative angle. I examine. Methodologically, I specialize in time series and panel data analysis. I have also taken a great interest in quantitative text analysis and the uses of natural language processing to answer questions in comparative political eocnomy.  
-
-On this webisite you can find my [publications](https://joshcova.github.io/publications/), my [CV](https://joshcova.github.io/files/CV_COVA_Aug_2023.pdf) and my [teaching experience](https://joshcova.github.io/teaching/). Feel free to reach out if you are interested!
+On this website you can find my [publications](https://joshcova.github.io/publications/), my [CV](https://joshcova.github.io/files/CV_COVA_Aug_2023.pdf) and my [teaching experience](https://joshcova.github.io/teaching/). Feel free to reach out if you are interested to connect, talk about projects and common interests!
