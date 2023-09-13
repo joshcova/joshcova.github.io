@@ -17,9 +17,9 @@ European electoral manifestos', [*Journal of European Social Policy*](https://jo
 Other publications 
 -------
 
-**Cova, Joshua (2023)** 'Book Review - Diminishing Returns: The New Politics of Growth and Stagnation', [*Journal of Comparative Policy Analysis*] (https://www.tandfonline.com/doi/full/10.1080/13876988.2023.2216164)
+**Cova, Joshua (2023)** 'Book Review - Diminishing Returns: The New Politics of Growth and Stagnation', [*Journal of Comparative Policy Analysis*](https://www.tandfonline.com/doi/full/10.1080/13876988.2023.2216164)
 
-**Cova, Joshua (2022)** 'The EU directive on fair and adequate minimum wages: Low-pay work, collective bargaining and the prospects for income growth', [*Jacques Delors Centre*] (https://www.delorscentre.eu/en/publications/fair-and-adequate-minimum-wages)
+**Cova, Joshua (2022)** 'The EU directive on fair and adequate minimum wages: Low-pay work, collective bargaining and the prospects for income growth', [*Jacques Delors Centre*](https://www.delorscentre.eu/en/publications/fair-and-adequate-minimum-wages)
 
 
 {% if author.googlescholar %}
