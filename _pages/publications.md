@@ -22,7 +22,7 @@ Other publications
 **Cova, Joshua (2022)** 'The EU directive on fair and adequate minimum wages: Low-pay work, collective bargaining and the prospects for income growth', [*Jacques Delors Centre*](https://www.delorscentre.eu/en/publications/fair-and-adequate-minimum-wages)
 
 
-You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=bHmhzsUAAAAJ&hl=en&oi=ao}}">my Google Scholar profile</a>.</u>
+You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=bHmhzsUAAAAJ&hl=en&oi=ao)
 
 {% include base_path %}
 
