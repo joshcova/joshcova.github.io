@@ -12,6 +12,8 @@ Peer-reviewed publications
 **Cova, Joshua (2023)**, 'Politicizing the minimum wage: A multilingual text analysis of minimum wages in
 European electoral manifestos', [*Journal of European Social Policy*](https://journals.sagepub.com/doi/10.1177/09589287231199561), 33(4), pp.469-483
 
+**Cova, Joshua (2023)**, 'Back to the basics: Applying multilingual dictionary analysis to the Comparative Manifesto Project corpus', [*Computational Communication Research*](https://www.aup-online.com/content/journals/10.5117/CCR2023.2.9.COVA), 5(2), pp.1-25
+
 **Cova, Joshua (2022)**, 'Reconsidering the drivers of country-specific recommendations: The Commission's ideological preferences on wage policies', [*European Union Politics*](https://journals.sagepub.com/doi/full/10.1177/14651165221102696), 23(4), pp.639-661
 
 Other publications 
