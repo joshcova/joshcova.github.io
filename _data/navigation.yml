@@ -4,10 +4,10 @@ main:
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/ 
 
   - title: "Workshops"
-   url: /workshops/       
+    url: /workshops/        
     
   - title: "CV"
     url: /files/CV_COVA_Nov2024.pdf
