@@ -9,7 +9,7 @@ Please find below a list of workshops I have run:
 **Large language models in social science research** (with [Luuk Schmitz](https://luukschmitz.com/))
 
 * Online workshop series designed for advanced graduate students focusing on how to interact with classifiers and LLMs 
-* Slides
+* [Slides](https://github.com/joshcova/LLMs-for-social-scientists)
 
 **Introduction to Python**
 
