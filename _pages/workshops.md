@@ -14,7 +14,7 @@ Please find below a list of workshops I have run:
 **Introduction to Python**
 
 * Workshop offered to PhD students at the Max Planck Institute 
-* [Slides] (https://github.com/joshcova/Intro-to-Python)
+* [Slides](https://github.com/joshcova/Intro-to-Python)
 
 {% include base_path %}
 
