@@ -5,6 +5,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Workshops"
+   url: /workshops/       
     
   - title: "CV"
     url: /files/CV_COVA_Nov2024.pdf
