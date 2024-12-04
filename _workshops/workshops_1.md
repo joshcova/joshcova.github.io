@@ -6,9 +6,15 @@ author_profile: true
 ---
 Please find below a list of workshops I have run: 
 
-Large language models in social science research (with [Luuk Schmitz](https://luukschmitz.com/))
+**Large language models in social science research** (with [Luuk Schmitz](https://luukschmitz.com/))
 
-Introduction to Python
+* Online workshop series designed for advanced graduate students focusing on how to interact with classifiers and LLMs 
+* Slides
+
+**Introduction to Python**
+
+* Workshop offered to PhD students at the Max Planck Institute 
+* [Slides] (https://github.com/joshcova/Intro-to-Python)
 
 {% include base_path %}
 
