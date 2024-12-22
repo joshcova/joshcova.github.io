@@ -4,7 +4,7 @@ title: "Data"
 permalink: /data/
 author_profile: true
 ---
-**ItaParlCorpus (Cova, 2024)**
+**[*ItaParlCorpus*](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KUARWD) (Cova, 2024)**
 
 ItaParlCorpus is a **machine-readable** and **annotated** corpus of parliamentary speeches from Italy's lower chamber of Parliament, the *Camera dei Deputati*. 
 
@@ -12,7 +12,7 @@ This comprehensive corpus contains all parliamentary speeches from the Italian p
 
 Covering 18 legislatures, 68 different governments, the corpus includes over 470 million words, 2.4 million speeches, from 6,263 unique speakers representing 154 different political parties. 
 
-[*Harvard Dataverse*](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KUARWD)
+
 
 {% include base_path %}
 
