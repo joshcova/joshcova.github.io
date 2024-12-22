@@ -18,6 +18,11 @@ European electoral manifestos', [*Journal of European Social Policy*](https://jo
 
 **Cova, Joshua (2022)**, 'Reconsidering the drivers of country-specific recommendations: The Commission's ideological preferences on wage policies', [*European Union Politics*](https://journals.sagepub.com/doi/full/10.1177/14651165221102696), 23(4), pp.639-661
 
+Pre-prints and working papers 
+-------
+
+**Cova, Joshua and Schmitz, Luuk (2024)**, 'A primer for the use of classifier and generative large language models in social science research', [*OSF Preprints*](https://osf.io/preprints/osf/r3qng)
+
 Other publications 
 -------
 
