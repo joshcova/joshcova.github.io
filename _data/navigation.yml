@@ -7,7 +7,10 @@ main:
     url: /teaching/ 
 
   - title: "Workshops"
-    url: /workshops/        
+    url: /workshops/    
+
+  - title: "Data"
+    url: /data/           
     
   - title: "CV"
     url: /files/CV_COVA_Nov2024.pdf
