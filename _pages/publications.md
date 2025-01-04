@@ -9,6 +9,8 @@ Please find below a list of my publications:
 Peer-reviewed publications
 ------
 
+**Cova, Joshua (2025)**, 'State intervention in low-wage work: Politics, social actors, and increased governmental control', [*European Journal of Industria Relations*](https://journals.sagepub.com/doi/10.1177/09596801241311850), *Online First*
+
 **Cova, Joshua (2024)**, 'On industrial relations and inflation: a long-term perspective', [*Transfer: European Review of Labour and Research*](https://journals.sagepub.com/doi/pdf/10.1177/10242589241295362), 1-22
 
 **Cova, Joshua (2023)**, 'Politicizing the minimum wage: A multilingual text analysis of minimum wages in
