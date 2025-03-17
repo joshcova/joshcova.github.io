@@ -9,7 +9,7 @@ Please find below a list of my publications:
 Peer-reviewed publications
 ------
 
-**Cova, Joshua (2025)** 'A new database for Italian parliamentary speeches: Introducing the ItaParlCorpus dataset', [*Italian Political Science Review *](https://www.cambridge.org/core/journals/italian-political-science-review-rivista-italiana-di-scienza-politica/article/new-database-for-italian-parliamentary-speeches-introducing-the-itaparlcorpus-dataset/B2B70F700901C6A8C7D4F2D51590AEDE) 
+**Cova, Joshua (2025)** 'A new database for Italian parliamentary speeches: Introducing the ItaParlCorpus dataset', [*Italian Political Science Review*](https://www.cambridge.org/core/journals/italian-political-science-review-rivista-italiana-di-scienza-politica/article/new-database-for-italian-parliamentary-speeches-introducing-the-itaparlcorpus-dataset/B2B70F700901C6A8C7D4F2D51590AEDE) 
 
 **Cova, Joshua (2025)**, 'State intervention in low-wage work: Politics, social actors, and increased governmental control', [*European Journal of Industrial Relations*](https://journals.sagepub.com/doi/10.1177/09596801241311850), *Online First*
 
