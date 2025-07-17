@@ -10,7 +10,7 @@ Please find below a list of workshops I have run:
 
 * Online workshop series designed for advanced graduate students focusing on how to interact with classifiers and LLMs 
 * [Slides](https://github.com/joshcova/LLMs-for-social-scientists)
-* [*A primer for the use of classifier and generative large language models in social science research*](https://osf.io/preprints/osf/r3qng)
+* [Paper: *"A primer for the use of classifier and generative large language models in social science research"*](https://osf.io/preprints/osf/r3qng)
 
 **Introduction to Python**
 
