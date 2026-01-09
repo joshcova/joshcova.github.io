@@ -16,4 +16,4 @@ Methodologically, I specialize in text-as-data methods and in leveraging natural
 
 My research has been published in academic journals including *European Union Politics*, the *Journal of European Social Policy* and the *European Journal of Industrial Relations*.
 
-Amongst other things, on this website you can find my [publications](https://joshcova.github.io/publications/), my [CV](https://joshcova.github.io/files/CV_COVA_Jan_2025.pdf) and my [teaching experience](https://joshcova.github.io/teaching/). Feel free to reach out at <cj@mpifg.de> if you are interested to connect, talk about projects and common interests!
+Amongst other things, on this website you can find my [publications](https://joshcova.github.io/publications/), my [CV](https://joshcova.github.io/files/CV_COVA_Jan_2026.pdf) and my [teaching experience](https://joshcova.github.io/teaching/). Feel free to reach out at <cj@mpifg.de> if you are interested to connect, talk about projects and common interests!
